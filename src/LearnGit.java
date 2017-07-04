@@ -3,7 +3,7 @@
  */
 //注释
 public class LearnGit {
-
+    int a;
     int age;
     String name;
     public LearnGit() {

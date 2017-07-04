@@ -4,6 +4,7 @@
 //注释
 public class LearnGit {
 
+    int a;
     int phone;
     int age;
     String name;

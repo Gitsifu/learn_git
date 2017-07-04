@@ -4,6 +4,7 @@
 //注释
 public class LearnGit {
 
+    int phone;
     int age;
     String name;
     public LearnGit() {

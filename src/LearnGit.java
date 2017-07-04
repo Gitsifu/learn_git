@@ -4,7 +4,7 @@
 //注
 public class LearnGit {
 
-    String  name;
+
 
     public LearnGit() {
     }

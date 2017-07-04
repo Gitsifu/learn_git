@@ -3,4 +3,6 @@
  */
 //注释
 public class LearnGit {
+    public LearnGit() {
+    }
 }
